@@ -10,7 +10,7 @@
   </a>
 </div>
 <div id="viewprof" align="center">
-  <img src="https://komarev.com/ghpvc/?UNIKITOS&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?user=UNIKITOS&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="heythere" align="center">
   <h1>
@@ -39,4 +39,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?UNIKITOS&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UNIKITOS)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UNIKITOS)](https://github.com/rompersStomper/github-readme-stats)

@@ -14,8 +14,9 @@
 </div>
 <div id="heythere" align="center">
   <h1>
-  Приветик
+  Еха
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    
 </h1>
 </div>
 <div align="center">
@@ -42,3 +43,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UNIKITOS)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UNIKITOS)](https://github.com/rompersStomper/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Солнце+смеялось+в+небе+птички+пели)](https://git.io/typing-svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=UNIKITOS)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=UNIKITOS)](https://github.com/ashutosh00710/github-readme-activity-graph)

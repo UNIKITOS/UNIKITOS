@@ -26,7 +26,7 @@
 ### :rofl: About Me:
 ---
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 - :telescope: I am studying to be a programmer and participate in the creation of information systems
 
 - :seedling: Exploring Technical Content Writing.

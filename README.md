@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/cOWrtzOittBpJbjMQ0/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/RbbtShp">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/RbbtShp">
+  <a href="https://www.youtube.com/channel/UCtaOYOAaKqs_bp3hJyiiIRg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>

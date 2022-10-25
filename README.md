@@ -22,8 +22,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/G4L8dSFRouOs5zU7RT/giphy.gif" width="600" height="300"/>
 </div>
----
-### :rofl: About Me:
+
+ :rofl: About Me:
 ---
 
 I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
@@ -38,11 +38,15 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  
 </div>
----
-### :fire: My Stats :
 
+ :fire: My Stats :
+---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UNIKITOS)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UNIKITOS)](https://github.com/rompersStomper/github-readme-stats)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Солнце+смеялось+в+небе+птички+пели)](https://git.io/typing-svg)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=UNIKITOS)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=UNIKITOS)](https://github.com/ashutosh00710/github-readme-activity-graph)
